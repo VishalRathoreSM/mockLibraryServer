@@ -6,12 +6,11 @@ const port = process.env.PORT || 4000;
 
 app.use(express.json());
 
-app.get("/library", (req, res) => {
+app.get("/", (req, res) => {
   res.send(libraryData);
 });
 
-app.post("/library", (req, res) => {
-  console.log(req.body);
+app.post("/", (req, res) => {
   res.status(200).send();
 });
 
