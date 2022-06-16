@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "bookName": "Harry Potter",
+      "authorName": "J.K. Rowling",
+      "price": 56.0,
+      "email": "vishalrathore@gmail.com",
+      "website": "https://prep2-frontend.snackmagic.com/",
+      "displayBook": true,
+      "publisher": "Nishant"
+    },
+    {
+      "bookName": "Harry Potter 2",
+      "authorName": "J.K. Rowling",
+      "price": 46.0,
+      "email": "vishalrathore@gmail.com",
+      "website": "https://prep2-frontend.snackmagic.com/",
+      "displayBook": true,
+      "publisher": "Vishal"
+    },
+    {
+      "bookName": "Harry Potter 3",
+      "authorName": "J.K. Rowling",
+      "price": 66.0,
+      "email": "vishalrathore@gmail.com",
+      "website": "https://prep2-frontend.snackmagic.com/",
+      "displayBook": true,
+      "publisher": "Vicky"
+    },
+    {
+      "bookName": "Harry Potter 4",
+      "authorName": "J.K. Rowling",
+      "price": 99.0,
+      "email": "vishalrathore@gmail.com",
+      "website": "https://prep2-frontend.snackmagic.com/",
+      "displayBook": true,
+      "publisher": "Vishal"
+    }
+  ]
+}
